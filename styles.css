@@ -1,0 +1,84 @@
+*{
+    font-family: 'Sarabun', sans-serif;
+    all: none;
+}
+h1 {
+    text-align: center;
+    size: 50px;
+}
+h2 {
+    text-align: center;
+    size: 30px;
+}
+.container {
+    border: 1px solid #000;
+    position: relative;
+    top: 10px;
+    bottom: 20px;
+    margin: 50px 30px;
+    text-align: center;
+}
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px; 
+}
+.yellow {
+    background-color: #fdd007;
+    color:#000;
+}
+.black {
+    background-color: #000;
+    color: #ffffff;
+}
+.white{
+    background-color: #ffffff;
+    color: #000;
+    border: 0.5px solid #000;
+}
+.brownOne {
+    background-color: #825a27;
+    color: #000;
+}
+.brownTwo {
+    background-color: #985301;
+    color: #000;
+}
+.grey {
+    background-color: #a7a7a7;
+    color: #000;
+}
+.red {
+    background-color: #801928;
+    color: #000;
+}
+.green {
+    background-color: #6ea521;
+    color: #000;
+}
+.regular-mitr {
+    font-family: mitr, sans-serif;
+    font-weight: 300;
+}
+.bold-mitr {
+    font-family: mitr, sans-serif;
+    font-weight: 500;
+}
+.regular-sarabun {
+    font-family: sarabun, sans-serif;
+    font-weight: 300;
+}
+.bold-sarabun {
+    font-family: sarabun, sans-serif;
+    font-weight: 700;
+    font-style: bold;
+}
+.italic-sarabun {
+    font-family: sarabun, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+
